@@ -8,8 +8,8 @@
  
 # Some results:
 
-![1 example](https://github.com/FruitPirate/DLS-project-trash-detection/tree/master/results/1.png)
-![2 example](https://github.com/FruitPirate/DLS-project-trash-detection/tree/master/results/2.png)
-![3 example](https://github.com/FruitPirate/DLS-project-trash-detection/tree/master/results/3.png)
-![4 example](https://github.com/FruitPirate/DLS-project-trash-detection/tree/master/results/4.png)
+![1 example](https://github.com/FruitPirate/DLS-project-trash-detection/tree/master/results/1.png)\
+![2 example](https://github.com/FruitPirate/DLS-project-trash-detection/tree/master/results/2.png)\
+![3 example](https://github.com/FruitPirate/DLS-project-trash-detection/tree/master/results/3.png)\
+![4 example](https://github.com/FruitPirate/DLS-project-trash-detection/tree/master/results/4.png)\
 ![5 example](https://github.com/FruitPirate/DLS-project-trash-detection/tree/master/results/5.png)
